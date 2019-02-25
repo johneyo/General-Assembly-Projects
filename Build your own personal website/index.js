@@ -6,10 +6,10 @@ btn.addEventListener('click', onclick)
 
 function onclick (e) {
 if(email.value){
-btn.style.background ='green',
+btn.style.background ='#28a745',
 btn.value = 'Done'
 }else{
-    btn.style.background ='red'
+    btn.style.background ='#dc3545'
     btn.value = 'no email'
 
 }

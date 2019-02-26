@@ -49,7 +49,10 @@
     }
   .robot{
     position: relative;
-    left:200px;
+    left:00px;
+    animation: dance .7s infinite;
+    -webkit-animation: dance .7s infinite;
+    -moz-animation: dance .7s infinite;
   }
   .beep{
     width: 5px;
@@ -94,7 +97,7 @@
     height: 150px;
     width: 150px;
     border-radius: 60px 60px 10px 10px;
-    border-bottom: 40px solid #666;
+    border-bottom: 40px double #666;
   }
   .torso {
     height: 0;

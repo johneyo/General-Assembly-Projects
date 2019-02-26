@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johneyo/learnsPersonalPlayground.git"
+    "url": "git+https://github.com/johneyo/General-Assembly-Projects.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johneyo/learnsPersonalPlayground/issues"
+    "url": "https://github.com/johneyo/General-Assembly-Projects.git"
   },
-  "homepage": "https://github.com/johneyo/learnsPersonalPlayground#readme"
+  "homepage": "https://github.com/johneyo/General-Assembly-Projects.git#readme"
 }
